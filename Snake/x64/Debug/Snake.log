@@ -1,2 +1,5 @@
 ﻿  Snake.cpp
-  Snake.vcxproj -> C:\Users\john.leuba\source\repos\Snake\x64\Debug\Snake.exe
+e:\projets\source\snake\snake\snake.cpp(88): warning C4309: 'argument' : troncation de valeur de constante
+e:\projets\source\snake\snake\snake.cpp(91): warning C4309: 'argument' : troncation de valeur de constante
+e:\projets\source\snake\snake\snake.cpp(94): warning C4309: 'argument' : troncation de valeur de constante
+  Snake.vcxproj -> E:\Projets\source\Snake\x64\Debug\Snake.exe
