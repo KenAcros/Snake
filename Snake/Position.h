@@ -11,7 +11,7 @@ class Position
         void update(int, int);
         int getX();
         int getY();
-
+		bool operator==(Position &a);
     private:
         int x, y;
 };

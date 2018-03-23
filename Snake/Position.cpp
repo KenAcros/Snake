@@ -28,3 +28,12 @@ int Position::getY()
 {
     return y;
 }
+
+bool Position::operator==(Position & a)
+{
+	if (a.getX() == x && a.getY() == y)
+	{
+		return true;
+	}
+	else return false;
+}

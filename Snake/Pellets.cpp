@@ -14,5 +14,5 @@ Position Pellets::getPos()
 
 void Pellets::newPos(Screen &screen)
 {
-	pos.update(rand() % screen.getWidth,rand() % screen.getHeight);	
+	pos.update(rand() % screen.getWidth(),rand() % screen.getHeight());	
 }

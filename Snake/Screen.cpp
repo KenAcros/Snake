@@ -144,6 +144,6 @@ int Screen::positionToIndex(Position& p) const
 
 Position Screen::indexToPosition(int i) const
 {
-
+	return Position();
 }
 

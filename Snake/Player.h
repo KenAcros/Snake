@@ -8,7 +8,7 @@ public:
 	Player();
 
 	std::vector<Position>& getBody();
-	void move(char input);
+	void move(char input, const int board[]);
 
 private :
 	std::vector<Position> body = std::vector<Position>();
