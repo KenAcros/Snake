@@ -1,0 +1,9 @@
+﻿  Pellets.cpp
+c:\users\john.leuba\source\repos\snake\snake\pellets.cpp(8): error C2660: 'Pellets::newPos' : la fonction ne prend pas 0 arguments
+  Player.cpp
+  Position.cpp
+  Screen.cpp
+c:\users\john.leuba\source\repos\snake\snake\screen.cpp(87): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\john.leuba\source\repos\snake\snake\screen.cpp(105): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\john.leuba\source\repos\snake\snake\screen.cpp(151): error C2600: 'Screen::~Screen' : impossible de définir une fonction membre spéciale générée par le compilateur (doit être déclarée d'abord dans la classe)
+  Génération de code en cours...
